@@ -18,7 +18,7 @@ Em index.tsx( context -> AuthProvider -> index.tsx), são criadas as funções q
 ex: yarn dev
 
 
-#### Estou usando o site https://reqres.in como api basa
+#### Estou usando o site https://reqres.in como api
 
 Se trata de um site de requisições fake, ele tem como login e senha os seguintes dados:
 email: eve.holt@reqres.in
