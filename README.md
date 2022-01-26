@@ -16,3 +16,12 @@ Em index.tsx( context -> AuthProvider -> index.tsx), são criadas as funções q
 ### para executar o projeto, apos instalar o comando do script é dev.
 
 ex: yarn dev
+
+
+#### Estou usando o site https://reqres.in como api basa
+
+Se trata de um site de requisições fake, ele tem como login e senha os seguintes dados:
+email: eve.holt@reqres.in
+password: cityslicka
+
+Pode acessar com esses dois quando o sistema estiver rodando, que vai fazer o login e autenticação para você.
