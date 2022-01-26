@@ -13,7 +13,7 @@ function App() {
         <Routes>
           <Route path='/profile' element={
             <ProtectedLayout>
-              <h2>LOGADO CARAIO TA FUNCIONANDO</h2>
+              <h2>LOGADO TA FUNCIONANDO</h2>
             </ProtectedLayout>
            } />
           <Route path='/login' element={ <Login />} />
